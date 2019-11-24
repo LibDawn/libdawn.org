@@ -1,11 +1,15 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Willkommen, Weltverbessererïn'
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+LibDawn -- oder *Liberal Dawn* -- ist der Versuch ganzheitlich liberale Konzepte in Deutschland wieder populär zu machen. 
+Die Welt ist im Wandel, und wir denken das nach wie vor die Ideen des Liberalismus die besten Antworten auf diesen Wandel sind, nur werden sie weder in allen Politikfeldern angewendet, noch konsequent umgesetzt. 
+T.b.c.
+
+
